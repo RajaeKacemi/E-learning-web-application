@@ -1,0 +1,31 @@
+.Message{
+    width:100%;
+    position:relative;
+    margin-bottom: 20px;
+    display:flex;
+    justify-content:center;
+}
+
+
+.Message .echec{
+    display:none;
+    font-size:20px;
+    color:rgb(221, 44, 44);
+    position:absolute;
+    
+    animation: .5s linear;
+}
+
+button{
+    font-size: 100px;
+    transition-duration: 0.4s;
+    border:3px solid #5fcf80;
+     background-color:#5fcf80;
+     color:white;
+     margin-left:15px;
+}
+
+button:hover {
+    background-color: white; /* Green */
+    color: #4CAF50;
+  }

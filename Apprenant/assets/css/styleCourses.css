@@ -1,0 +1,37 @@
+.titre{
+
+    background-color:#5fcf80;
+    height: 225px;
+}
+.chemin{
+    color: white !important;
+}
+.fa-clock , .fa-chart-simple{
+    font-size: 12px;
+    color:white;
+
+}
+h6, h1{
+    color:white;
+}
+span{
+    color:white;
+}
+.listUl{
+    list-style: none;
+}
+.list{
+    text-decoration: none;
+    color:white;
+}
+
+.card {
+ width: 250px;
+ height: 260px;
+ border-radius: 20px;
+ background: #f3f3f3;
+
+}
+.list2{
+ color:black;
+}
